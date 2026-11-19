@@ -1,0 +1,4 @@
+Domain Name: NMG.com
+Domain Controller Name: NMG-DC01
+Static IP: 192.168.186.10
+Date Completed:11/15
