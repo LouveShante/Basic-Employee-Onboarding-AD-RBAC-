@@ -1,0 +1,8 @@
+Jira Ticket Number - NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: Jane was in the Operations OU and was also apart of the Operations access group.
+Fix Applied: Moved Jane to the HR OU, removed the Operations-Users group and added her to the HR-Users.
+Verification: Jane is listed under the HR-OU and I checked to make sure she is also listed as a member of the HR-Users. To further verify that it worked is to have the user test her access to the resources that she needs.
+Date resolved: 11/18
+Resolved by: Louvennia Whitehurst
