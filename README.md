@@ -9,7 +9,7 @@ Northstar Medical Group had a disorganized Active Directory environment. Users w
 Built an Active Directory environment for Northstar Medical Group (NMG) using the `NMG.com` domain. Created four Organizational Units (OUs) and corresponding security groups to organize users and manage access. Provisioned user accounts and assigned group memberships based on role-based access control (RBAC) principles, ensuring users received access aligned with their job responsibilities.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+[(https://www.loom.com/share/f680a82254804f469613c4a10780efb0)](https://www.loom.com/share/6c35df79f1fc4bb4a79b2d1d66fc421d)
 
 ## Tools Used
 * Windows Server
